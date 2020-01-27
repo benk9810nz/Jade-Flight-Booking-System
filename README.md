@@ -11,6 +11,7 @@ Once Jade is installed and Launced (by clicking the JADE.exe and logining in wit
 
 The Application can be launced in JADE by clicking the **ProjectViewSchema** Schema and right clicking the Green Arrow in JADE.
 
+## On First Launch
 Because the Schema will not contain any Instances of the Objects, they will need to be created via the New Database Button on the Login Screen.
 
 The Master Password is **BenKing** and once it has created the new Instances the user can now login with the username **admin** and password **admin**.
