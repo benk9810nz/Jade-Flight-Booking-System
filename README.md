@@ -16,6 +16,11 @@ Because the Schema will not contain any Instances of the Objects, they will need
 
 The Master Password is **BenKing** and once it has created the new Instances the user can now login with the username **admin** and password **admin**.
 
+## Other Bits and Pieces
 The Documentation PDF Has a more Indepth Explanation of how to use this application, as well as its Purpose.
+THe Jade Project Handout Features the Projects Instructions and what the marking Criteria was for this Project.
+
+## Marks
+For this Project I got an A, and overall for the JADE Class I got an A+. This resulted in me being the highest student in this class awarded the Jade Top Programmer Award at the SIT Prize Giving 2019
 
 @ Ben King 2019
